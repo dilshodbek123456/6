@@ -1,0 +1,143 @@
+body {
+   background-color: rgb(26, 26, 53);
+}
+
+.box {
+   width: 800px;
+   height: 600px;
+   border: solid 1px;
+   background-color: white;
+   margin: 4rem auto;
+}
+
+.traingle {
+   font-size: 25px;
+   padding: 30px;
+   color: rgb(0, 132, 255);
+}
+
+.search {
+   font-size: 25px;
+   padding: 30px;
+   color: rgb(137, 137, 137);
+   width: 0px;
+   height: 0px;
+}
+
+.search:hover {
+   background-color: rgb(0, 132, 255);
+}
+
+.heart {
+   font-size: 25px;
+   margin-left: 30px;
+   color: rgb(137, 137, 137);
+   margin-top: 31px;
+}
+
+.cell {
+   font-size: 25px;
+   margin-left: 30px;
+   margin-top: 32px;
+   color: rgb(137, 137, 137);
+}
+
+.layer {
+   font-size: 25px;
+   margin-left: 27px;
+   margin-top: 32px;
+   color: rgb(137, 137, 137);
+}
+
+.avatar {
+   border-radius: 200px;
+   width: 45px;
+   border: solid 2px rgb(0, 132, 255);
+   margin-left: 19px;
+   margin-top: 180px;
+}
+
+.line {
+   width: 0px;
+   height: 355px;
+   color: rgb(137, 137, 137);
+   border: solid 1px;
+   margin-left: 85px;
+   margin-top: -545px;
+}
+
+p {
+   margin-left: 130px;
+   margin-top: -360px;
+   color: rgb(137, 137, 137);
+}
+
+b {
+   margin-left: 130px;
+   font-size: 55px;
+}
+
+button {
+   background-color: white;
+   border: solid 0.5px rgb(142, 201, 255);
+   color: rgb(0, 132, 255);
+   width: 100px;
+   height: 35px;
+   margin-left: 425px;
+}
+
+button:hover {
+   border: solid 0.5px rgb(0, 132, 255);
+}
+
+.jpg1 {
+   width: 210px;
+   height: 210px;
+   margin-left: 130px;
+}
+
+.jpg1:hover {
+   opacity: calc(.5);
+   transition: 0.2s;
+}
+
+.jpg2 {
+   width: 425px;
+   height: 210px;
+}
+
+.jpg2:hover {
+   opacity: calc(.5);
+   transition: 0.2s;
+}
+
+.jpg3 {
+   width: 210px;
+   height: 210px;
+   margin-left: 130px;
+}
+
+.jpg3:hover {
+   opacity: calc(.5);
+   transition: 0.2s;
+}
+
+.jpg4 {
+   width: 210px;
+   height: 210px;
+}
+
+.jpg4:hover {
+   opacity: calc(.5);
+   transition: 0.2s;
+}
+
+.jpg5 {
+   width: 210px;
+   height: 210px;
+}
+
+.jpg5:hover {
+   opacity: calc(.5);
+   transition: 0.2s;
+}
